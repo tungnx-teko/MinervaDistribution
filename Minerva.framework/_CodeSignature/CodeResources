@@ -18,23 +18,23 @@
 		</data>
 		<key>Modules/Minerva.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<data>
-		k1PNT46XlqGhTtGZKreOeTG/DKw=
+		aWVT5G0lCb37mSKBDDEd7dlvTcQ=
 		</data>
 		<key>Modules/Minerva.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		z6w6QIr07uzhsiE0vQzu09WmHqc=
+		IQnRfztinNL1xi8jwSXaR6xcPTY=
 		</data>
 		<key>Modules/Minerva.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		z6w6QIr07uzhsiE0vQzu09WmHqc=
+		IQnRfztinNL1xi8jwSXaR6xcPTY=
 		</data>
 		<key>Modules/Minerva.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		k1PNT46XlqGhTtGZKreOeTG/DKw=
+		aWVT5G0lCb37mSKBDDEd7dlvTcQ=
 		</data>
 		<key>Modules/Minerva.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<data>
-		k1PNT46XlqGhTtGZKreOeTG/DKw=
+		aWVT5G0lCb37mSKBDDEd7dlvTcQ=
 		</data>
 		<key>Modules/Minerva.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/Minerva.swiftmodule/arm.swiftmodule</key>
 		<data>
-		Ib8uNl4C9gAhJK0MAEnUMhS4m90=
+		bu2UmqrMtdY76JRso9Yyr6GyJKE=
 		</data>
 		<key>Modules/Minerva.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/Minerva.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		pgnWKfaHG2KUiOkcq/ue/iihmPo=
+		No+CUzKwpPWlvjSk6D/QRY9WKaU=
 		</data>
 		<key>Modules/Minerva.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/Minerva.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		pgnWKfaHG2KUiOkcq/ue/iihmPo=
+		No+CUzKwpPWlvjSk6D/QRY9WKaU=
 		</data>
 		<key>Modules/Minerva.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/Minerva.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		Ib8uNl4C9gAhJK0MAEnUMhS4m90=
+		bu2UmqrMtdY76JRso9Yyr6GyJKE=
 		</data>
 		<key>Modules/Minerva.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/Minerva.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		Ib8uNl4C9gAhJK0MAEnUMhS4m90=
+		bu2UmqrMtdY76JRso9Yyr6GyJKE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,55 +109,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k1PNT46XlqGhTtGZKreOeTG/DKw=
+			aWVT5G0lCb37mSKBDDEd7dlvTcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MUNB1wWq3k6xuRxagkBK7yEGgQYLJ06l4kS6JfUkbSk=
+			SgyZD6q5QA9B3iiBEA5qPkG/SmcgF0EmUU6SENrwiCw=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z6w6QIr07uzhsiE0vQzu09WmHqc=
+			IQnRfztinNL1xi8jwSXaR6xcPTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FhP92JsmjjSKbU2L9/FSZUKDsJ9YqiaiwjMeDh97FPw=
+			mE6A8eHgPVI0XVWTOz0i1eVPkb7q27LViwhROX3cusQ=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z6w6QIr07uzhsiE0vQzu09WmHqc=
+			IQnRfztinNL1xi8jwSXaR6xcPTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			FhP92JsmjjSKbU2L9/FSZUKDsJ9YqiaiwjMeDh97FPw=
+			mE6A8eHgPVI0XVWTOz0i1eVPkb7q27LViwhROX3cusQ=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k1PNT46XlqGhTtGZKreOeTG/DKw=
+			aWVT5G0lCb37mSKBDDEd7dlvTcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MUNB1wWq3k6xuRxagkBK7yEGgQYLJ06l4kS6JfUkbSk=
+			SgyZD6q5QA9B3iiBEA5qPkG/SmcgF0EmUU6SENrwiCw=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/Project/armv7.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k1PNT46XlqGhTtGZKreOeTG/DKw=
+			aWVT5G0lCb37mSKBDDEd7dlvTcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MUNB1wWq3k6xuRxagkBK7yEGgQYLJ06l4kS6JfUkbSk=
+			SgyZD6q5QA9B3iiBEA5qPkG/SmcgF0EmUU6SENrwiCw=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/arm.swiftdoc</key>
@@ -175,11 +175,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ib8uNl4C9gAhJK0MAEnUMhS4m90=
+			bu2UmqrMtdY76JRso9Yyr6GyJKE=
 			</data>
 			<key>hash2</key>
 			<data>
-			0nOZ+hLKKbFqH2AoY4xGXLe14lkOdm16+v9sRXNN5sk=
+			/z+7MAagAB0pWF0+7qx0pt6SrcJDpoyBIkyaqhdsTPA=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -197,11 +197,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pgnWKfaHG2KUiOkcq/ue/iihmPo=
+			No+CUzKwpPWlvjSk6D/QRY9WKaU=
 			</data>
 			<key>hash2</key>
 			<data>
-			M+SN2aosy0siT7KBHTtl1CUQPEiISeomssp3ilw8f1o=
+			0ehlqKLlsvbQuKZYSuiYOy53hqHobaeuhmT3K9wjUHw=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/arm64.swiftdoc</key>
@@ -219,11 +219,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pgnWKfaHG2KUiOkcq/ue/iihmPo=
+			No+CUzKwpPWlvjSk6D/QRY9WKaU=
 			</data>
 			<key>hash2</key>
 			<data>
-			M+SN2aosy0siT7KBHTtl1CUQPEiISeomssp3ilw8f1o=
+			0ehlqKLlsvbQuKZYSuiYOy53hqHobaeuhmT3K9wjUHw=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -241,11 +241,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ib8uNl4C9gAhJK0MAEnUMhS4m90=
+			bu2UmqrMtdY76JRso9Yyr6GyJKE=
 			</data>
 			<key>hash2</key>
 			<data>
-			0nOZ+hLKKbFqH2AoY4xGXLe14lkOdm16+v9sRXNN5sk=
+			/z+7MAagAB0pWF0+7qx0pt6SrcJDpoyBIkyaqhdsTPA=
 			</data>
 		</dict>
 		<key>Modules/Minerva.swiftmodule/armv7.swiftdoc</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ib8uNl4C9gAhJK0MAEnUMhS4m90=
+			bu2UmqrMtdY76JRso9Yyr6GyJKE=
 			</data>
 			<key>hash2</key>
 			<data>
-			0nOZ+hLKKbFqH2AoY4xGXLe14lkOdm16+v9sRXNN5sk=
+			/z+7MAagAB0pWF0+7qx0pt6SrcJDpoyBIkyaqhdsTPA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
