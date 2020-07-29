@@ -144,7 +144,7 @@ observer.observe(transactionCode: transactionCode) { result in
 
 We need to create a `PaymentRequest` object and then pass to `PaymentViewController`.
 
-> **Note:** Even when you use PaymentSDK, it's still needed to set config for PaymentGateway.
+> **Note:** Even when you use Minerva, it's still needed to set config for MinervaGateway.
 
 ```swift
 let request = PaymentRequest(orderId: orderId,
@@ -162,7 +162,7 @@ present(payment, animated: true, completion: nil)
 
 Delegate is an object whose class conforms to `PaymentDelegate`. 
 
-> You can either present or push paymentViewController from your navigation. PaymentSDK has itself built-in navigation controller. 
+> You can either present or push paymentViewController from your navigation. Minerva has itself built-in navigation controller. 
 
 ```swift
 func onResult(_ result: PaymentResult) {
