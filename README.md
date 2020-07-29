@@ -49,11 +49,11 @@ Before using PaymentGateway, we have to set up a `MinervaGatewayConfig`
 
 ```swift
 let config = MinervaGatewayConfig(
-clientCode, // payment client code, provided by PS
-terminalCode, // payment terminal code, provided by PS
-serviceCode, // payment service code, provided by PS
-secretKey, // payment secret key, provided by PS
-baseUrl // payment service base url
+    clientCode, // payment client code, provided by PS
+    terminalCode, // payment terminal code, provided by PS
+    serviceCode, // payment service code, provided by PS
+    secretKey, // payment secret key, provided by PS
+    baseUrl // payment service base url
 )
 ```
 
@@ -99,19 +99,19 @@ And then, we can use the result of `pay` method to do everything you want.
 
 ```swift
 let request = QRTransactionRequest(orderId: orderId,
-orderCode: orderCode,
-amount: amount, 
-expireTime: expireTime)                                     
+                                   orderCode: orderCode,
+                                   amount: amount, 
+                                   expireTime: expireTime)                                     
 ```
 
 ```swift
 try gateway.pay(method: .qr, request: request, completion: { result in
-switch result {
-case .success(let transaction):
-// Do something
-case .failure(let error):
-// Handle error
-}
+    switch result {
+    case .success(let transaction):
+    // Do something
+    case .failure(let error):
+    // Handle error
+    }
 })  
 ```
 
@@ -121,12 +121,12 @@ In the screen where you want to observe the transaction result, you need to crea
 
 ```swift
 observer.observe(transactionCode: transactionCode) { result in
-switch result {
-case .success:
-// Success, order is paid
-case .failure(let error):
-// Failed
-}
+    switch result {
+    case .success:
+    // Success, order is paid
+    case .failure(let error):
+    // Failed
+    }
 }
 ```
 
@@ -148,15 +148,15 @@ We need to create a `PaymentRequest` object and then pass to `PaymentViewControl
 
 ```swift
 let request = PaymentRequest(orderId: orderId,
-orderCode: orderCode,
-orderDescription: orderDescription, // not required
-amount: 100000,
-expireTime: 600) // not required, default is 600s
+                             orderCode: orderCode,
+                             orderDescription: orderDescription, // not required
+                             amount: 100000,
+                             expireTime: 600) // not required, default is 600s
 ```
 
 ```swift
 let payment = PaymentRouter.createModule(request: request, 
-delegate: self)
+                                         delegate: self)
 present(payment, animated: true, completion: nil)
 ```
 
