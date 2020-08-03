@@ -27,11 +27,11 @@ Depending on your purpose, PaymentSDK provides two options to integrate. If you 
 Using **[CocoaPods](https://cocoapods.org/)**
 
 ```ruby
-pod 'Minerva', '0.1.3', :source => 'https://github.com/tungnx-teko/TekoSpecs'
+pod 'Minerva', :source => 'https://github.com/teko-vn/Specs-ios.git'
 ```
 
 ```ruby
-pod 'MinervaCore', '0.1.5', :source => 'https://github.com/tungnx-teko/TekoSpecs'
+pod 'MinervaCore', :source => 'https://github.com/teko-vn/Specs-ios.git'
 ```
 
 To make your app able to archive and upload to Appstore, you have to add file `strip-frameworks.sh` to `build-phases` directory in project directory.
